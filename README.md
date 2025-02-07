@@ -22,7 +22,7 @@ Este projeto utiliza a **Análise RFM (Recency, Frequency, Monetary Value)** par
 ### 5️⃣ **Processamento dos Dados e Label Encoding** 🔄  
 ### 6️⃣ **Criação dos Segmentos RFM** 🎯  
 ### 7️⃣ **Segmentação de Clientes Usando Análise RFM** 👥  
-### 8️⃣ **Dashboard** 📈
+### 8️⃣ **Gráfico** 📈
 
 Para baixar o dataset do projeto, baixar no link abaixo:
 https://www.kaggle.com/datasets/ilkeryildiz/online-retail-listing
